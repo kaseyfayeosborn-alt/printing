@@ -4,7 +4,7 @@ Each link downloads a single file. No ZIP archive is required. Choose **3MF** to
 
 Open a 3MF in desktop Creality Print as a project. Use the material shown, and map its colors to your actual CFS spools. Color orders differ between designs.
 
-All models have flat backs; magnets have no magnet pockets. The corrected Maryland shapes and approved circular ornament are included. Files preserve the geometry and projects checked in Creality Print. Physical printing has not been tested.
+All models have flat backs. The glue-on magnets have smooth backs; the new oyster bird magnet has a sealed internal magnet cavity and a saved insertion pause. The corrected Maryland shapes and approved circular ornament are included. Files preserve the geometry and projects checked in Creality Print. Physical printing has not been tested.
 
 **The current oyster bird is V8 in PETG. The oyster meat magnet is PLA. The mixed plate is the previously completed PLA plate with the earlier V5 oyster bird.**
 
@@ -16,6 +16,7 @@ All models have flat backs; magnets have no magnet pockets. The corrected Maryla
 | Crab buoy magnet | PETG | [STL](https://github.com/kaseyfayeosborn-alt/printing/raw/refs/heads/oyster-downloads-20261107/other_designs/Magnets/04_Crab_Buoy.stl) | [3MF](https://github.com/kaseyfayeosborn-alt/printing/raw/refs/heads/oyster-downloads-20261107/other_designs/Magnets/04_Crab_Buoy.3mf) |
 | Corrected Maryland state magnet | PETG | [STL](https://github.com/kaseyfayeosborn-alt/printing/raw/refs/heads/oyster-downloads-20261107/other_designs/Magnets/05_Maryland_State.stl) | [3MF](https://github.com/kaseyfayeosborn-alt/printing/raw/refs/heads/oyster-downloads-20261107/other_designs/Magnets/05_Maryland_State.3mf) |
 | Reter's lighthouse magnet | PETG | [STL](https://github.com/kaseyfayeosborn-alt/printing/raw/refs/heads/oyster-downloads-20261107/other_designs/Magnets/06_Lighthouse.stl) | [3MF](https://github.com/kaseyfayeosborn-alt/printing/raw/refs/heads/oyster-downloads-20261107/other_designs/Magnets/06_Lighthouse.3mf) |
+| Oyster bird magnet - hidden 10 x 2 mm magnet, saved insertion pause | PETG | [STL](https://github.com/kaseyfayeosborn-alt/printing/raw/refs/heads/oyster-downloads-20261107/other_designs/Magnets/07_Oyster_Bird_Embedded_10x2_PETG.stl) | [3MF](https://github.com/kaseyfayeosborn-alt/printing/raw/refs/heads/oyster-downloads-20261107/other_designs/Magnets/07_Oyster_Bird_Embedded_10x2_PETG.3mf) |
 | Maryland flag crab ornament | PETG | [STL](https://github.com/kaseyfayeosborn-alt/printing/raw/refs/heads/oyster-downloads-20261107/other_designs/Ornaments/01_Maryland_Flag_Crab.stl) | [3MF](https://github.com/kaseyfayeosborn-alt/printing/raw/refs/heads/oyster-downloads-20261107/other_designs/Ornaments/01_Maryland_Flag_Crab.3mf) |
 | Reter's rope sign ornament | PETG | [STL](https://github.com/kaseyfayeosborn-alt/printing/raw/refs/heads/oyster-downloads-20261107/other_designs/Ornaments/02_Reters_Rope_Sign.stl) | [3MF](https://github.com/kaseyfayeosborn-alt/printing/raw/refs/heads/oyster-downloads-20261107/other_designs/Ornaments/02_Reters_Rope_Sign.3mf) |
 | Corrected Maryland state ornament | PETG | [STL](https://github.com/kaseyfayeosborn-alt/printing/raw/refs/heads/oyster-downloads-20261107/other_designs/Ornaments/03_Maryland_State.stl) | [3MF](https://github.com/kaseyfayeosborn-alt/printing/raw/refs/heads/oyster-downloads-20261107/other_designs/Ornaments/03_Maryland_State.3mf) |
@@ -25,3 +26,5 @@ All models have flat backs; magnets have no magnet pockets. The corrected Maryla
 | Two oyster birds + two crab circles - previous V5 oyster plate | PLA | — | [3MF](https://github.com/kaseyfayeosborn-alt/printing/raw/refs/heads/oyster-downloads-20261107/other_designs/Mixed_Plates/Previous_Oyster_V5_and_Crab_Circles_PLA.3mf) |
 
 [Material and CFS color guide](other_designs/Material_and_Color_Guide.csv)
+
+[Hidden oyster bird magnet: insertion instructions](other_designs/Magnets/Oyster_Bird_Embedded_Instructions.md)

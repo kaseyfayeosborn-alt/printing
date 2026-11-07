@@ -160,7 +160,60 @@
       "bytes": 11407424,
       "material": "PLA",
       "validation": "Matches previous completed mixed-plate Creality Print check; contains earlier V5 oyster"
+    },
+    {
+      "file": "other_designs/Magnets/07_Oyster_Bird_Embedded_10x2_PETG.stl",
+      "sha256": "bbbf72bd9a461f6837c90d10a5f16f329ca5a4eb81329a15dd9bcf7ff50f299a",
+      "bytes": 30032084,
+      "material": "PETG",
+      "validation": "Fresh Creality Print import and slice; enclosed magnet cavity; insertion pause verified in generated toolpaths"
+    },
+    {
+      "file": "other_designs/Magnets/07_Oyster_Bird_Embedded_10x2_PETG.3mf",
+      "sha256": "911f6b9dcf65fe1a34be6a9c5d83b8e645aafaed2de038f534c5f33b96e2e013",
+      "bytes": 7431315,
+      "material": "PETG",
+      "validation": "Fresh Creality Print import and slice; enclosed magnet cavity; insertion pause verified in generated toolpaths"
     }
   ],
-  "physical_print_tested": false
+  "physical_print_tested": false,
+  "embedded_oyster_bird_magnet": {
+    "geometry": {
+      "nominal_magnet_mm": [
+        10,
+        2
+      ],
+      "cavity_diameter_mm": 10.3,
+      "cavity_height_mm": 2.28,
+      "cavity_floor_z_mm": 0.8,
+      "cavity_ceiling_z_mm": 3.08,
+      "cavity_center_mm": [
+        -0.82,
+        -4.16
+      ],
+      "magnet_count": 1,
+      "style": "completely enclosed; pause printing to insert magnet",
+      "pause_before_layer_z_mm": 3.08,
+      "minimum_sampled_plastic_above_cavity_mm": 3.2539031876571336,
+      "back_thickness_mm": 0.8,
+      "removed_volume_mm3": 189.92736076488654,
+      "entire_outside_back_flat_z_mm": 0,
+      "outer_front_and_back_unchanged": true,
+      "hanging_loop_removed": true,
+      "physical_print_tested": false
+    },
+    "pause": {
+      "project_sha256": "911f6b9dcf65fe1a34be6a9c5d83b8e645aafaed2de038f534c5f33b96e2e013",
+      "gcode_sha256": "e0fa3bce4e2465c25f255d743c67464167f631e61724fa554088f28704791dee",
+      "pause_count": 1,
+      "pause_command": "PAUSE",
+      "pause_before_layer_z_mm": 3.08,
+      "previous_completed_layer_z_mm": 2.96,
+      "first_covering_extrusion_z_mm": 3.2,
+      "cavity_open_when_paused": true,
+      "rear_floor_printed_before_insertion": true,
+      "nominal_magnet_fits_below_pause_surface": true,
+      "physical_pause_tested": false
+    }
+  }
 }
