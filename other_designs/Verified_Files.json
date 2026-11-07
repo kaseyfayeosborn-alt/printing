@@ -1,0 +1,166 @@
+{
+  "files": [
+    {
+      "file": "other_designs/Magnets/01_Maryland_Flag_Crab.stl",
+      "sha256": "374b7b4cc376c430d23c7ce6808f785b412c0807b43ec358bc487fd260d2368e",
+      "bytes": 9999984,
+      "material": "PETG",
+      "validation": "Preserved file matches prior geometry / Creality Print checks"
+    },
+    {
+      "file": "other_designs/Magnets/01_Maryland_Flag_Crab.3mf",
+      "sha256": "05365a62142803f43cfe2923b022a1d835ff249063b167dbf96736604fa15b54",
+      "bytes": 2136100,
+      "material": "PETG",
+      "validation": "Preserved file matches prior geometry / Creality Print checks"
+    },
+    {
+      "file": "other_designs/Magnets/02_Reters_Rope_Sign.stl",
+      "sha256": "c33cdb973db5bd16d02ea422c78a56caf89939341db8c588067f6a294a361cb7",
+      "bytes": 10000084,
+      "material": "PETG",
+      "validation": "Preserved file matches prior geometry / Creality Print checks"
+    },
+    {
+      "file": "other_designs/Magnets/02_Reters_Rope_Sign.3mf",
+      "sha256": "dac07bcbc1ee65a5f88947663b67aac8545f33db5e9e6fc7700b396470844ee2",
+      "bytes": 2165173,
+      "material": "PETG",
+      "validation": "Preserved file matches prior geometry / Creality Print checks"
+    },
+    {
+      "file": "other_designs/Magnets/03_Natural_Oyster.stl",
+      "sha256": "d9d903d9488d540d31a11207e88d752bd2e7d7082eb4ad4f3a63f2b73cb13267",
+      "bytes": 30000084,
+      "material": "PLA",
+      "validation": "Preserved file matches prior geometry / Creality Print checks"
+    },
+    {
+      "file": "other_designs/Magnets/03_Natural_Oyster.3mf",
+      "sha256": "4a740948f168332591b6de32c47ae6fb8c804ac2f53c32053d379effca543b16",
+      "bytes": 7955201,
+      "material": "PLA",
+      "validation": "Preserved file matches prior geometry / Creality Print checks"
+    },
+    {
+      "file": "other_designs/Magnets/04_Crab_Buoy.stl",
+      "sha256": "e5a98af9a6e99e4df76cae077f0eaa79769ad047f164a6867aac422280bb0575",
+      "bytes": 9999984,
+      "material": "PETG",
+      "validation": "Preserved file matches prior geometry / Creality Print checks"
+    },
+    {
+      "file": "other_designs/Magnets/04_Crab_Buoy.3mf",
+      "sha256": "97205fb8bc4049070d376fdfc0982a065464613e4d081794542c2c0b0bedad41",
+      "bytes": 1944568,
+      "material": "PETG",
+      "validation": "Preserved file matches prior geometry / Creality Print checks"
+    },
+    {
+      "file": "other_designs/Magnets/05_Maryland_State.stl",
+      "sha256": "6f5c7b9c5259d0326844463c602b9072946174b245b4c26ece5872ac4da25eaf",
+      "bytes": 10000084,
+      "material": "PETG",
+      "validation": "Preserved file matches prior geometry / Creality Print checks"
+    },
+    {
+      "file": "other_designs/Magnets/05_Maryland_State.3mf",
+      "sha256": "cc4b98de28d775d51c7afe95ebb0093e5892fc66677a485764ab3e19f27148fa",
+      "bytes": 2003289,
+      "material": "PETG",
+      "validation": "Preserved file matches prior geometry / Creality Print checks"
+    },
+    {
+      "file": "other_designs/Magnets/06_Lighthouse.stl",
+      "sha256": "6fd9f7368eb3730063185ca17f21a484817542fa6a2debc80a6dcadfab9d34fa",
+      "bytes": 9999984,
+      "material": "PETG",
+      "validation": "Preserved file matches prior geometry / Creality Print checks"
+    },
+    {
+      "file": "other_designs/Magnets/06_Lighthouse.3mf",
+      "sha256": "031e8e476a9dff7077b3e79e28b436e1f10762d348cd208383d2e1a79fe758b3",
+      "bytes": 2124623,
+      "material": "PETG",
+      "validation": "Preserved file matches prior geometry / Creality Print checks"
+    },
+    {
+      "file": "other_designs/Ornaments/01_Maryland_Flag_Crab.stl",
+      "sha256": "74c3cf47ebf8d15fc28d2e2632e6b3383b0c418ba3100d2d3112383c4ffabca7",
+      "bytes": 10000084,
+      "material": "PETG",
+      "validation": "Preserved file matches prior geometry / Creality Print checks"
+    },
+    {
+      "file": "other_designs/Ornaments/01_Maryland_Flag_Crab.3mf",
+      "sha256": "bedad1c5483c8b13dc9a391fa8cb6bb19fbcc9c8c8d698c236e0b85a644a1052",
+      "bytes": 2178810,
+      "material": "PETG",
+      "validation": "Preserved file matches prior geometry / Creality Print checks"
+    },
+    {
+      "file": "other_designs/Ornaments/02_Reters_Rope_Sign.stl",
+      "sha256": "a649af21b335ff6a2044ff44d0c090435266339b216721e30677caca7cd14789",
+      "bytes": 9999984,
+      "material": "PETG",
+      "validation": "Preserved file matches prior geometry / Creality Print checks"
+    },
+    {
+      "file": "other_designs/Ornaments/02_Reters_Rope_Sign.3mf",
+      "sha256": "c6a21d00f489126001a1657cafbca33d0e96a47c9cfef9500ce59fcde67fcc95",
+      "bytes": 2262590,
+      "material": "PETG",
+      "validation": "Preserved file matches prior geometry / Creality Print checks"
+    },
+    {
+      "file": "other_designs/Ornaments/03_Maryland_State.stl",
+      "sha256": "0809af3f6417620f15b2145bf4962e73ec1f6621af9d4910ab5bef072da355a0",
+      "bytes": 10000084,
+      "material": "PETG",
+      "validation": "Preserved file matches prior geometry / Creality Print checks"
+    },
+    {
+      "file": "other_designs/Ornaments/03_Maryland_State.3mf",
+      "sha256": "31c43cee9bf1da1f9644a53becef914a53f7dd6f91f37abf62a31f9baf830196",
+      "bytes": 2196913,
+      "material": "PETG",
+      "validation": "Preserved file matches prior geometry / Creality Print checks"
+    },
+    {
+      "file": "other_designs/Ornaments/04_Reters_Buoy.stl",
+      "sha256": "745195afd3e1c54258b6510bc763f940842300b670eca9b7ab23c009e2840dc1",
+      "bytes": 10000084,
+      "material": "PETG",
+      "validation": "Preserved file matches prior geometry / Creality Print checks"
+    },
+    {
+      "file": "other_designs/Ornaments/04_Reters_Buoy.3mf",
+      "sha256": "85dfc58547e854994599e910f1a7eb9cb51a5eca0221cb7a5bb492997410cc8f",
+      "bytes": 2033959,
+      "material": "PETG",
+      "validation": "Preserved file matches prior geometry / Creality Print checks"
+    },
+    {
+      "file": "other_designs/Ornaments/06_Crab_Circle.stl",
+      "sha256": "51328ff8cc6d9781ba43c520f4faf26a7470821e1fe98c35260267600cc100af",
+      "bytes": 12147984,
+      "material": "PETG",
+      "validation": "Preserved file matches prior geometry / Creality Print checks"
+    },
+    {
+      "file": "other_designs/Ornaments/06_Crab_Circle.3mf",
+      "sha256": "dfa86fb69a45cfb149a9e30d95c860e63073c084b5633461ade75bc5657447cf",
+      "bytes": 2887216,
+      "material": "PETG",
+      "validation": "Preserved file matches prior geometry / Creality Print checks"
+    },
+    {
+      "file": "other_designs/Mixed_Plates/Previous_Oyster_V5_and_Crab_Circles_PLA.3mf",
+      "sha256": "2869d28e58592a250e0cfe349815d567a1576538ba1662f8c89197d78622a600",
+      "bytes": 11407424,
+      "material": "PLA",
+      "validation": "Matches previous completed mixed-plate Creality Print check; contains earlier V5 oyster"
+    }
+  ],
+  "physical_print_tested": false
+}
